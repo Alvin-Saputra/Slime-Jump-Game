@@ -1,7 +1,7 @@
 # Slime-Jump-Game
 
 ## Overview
-See More Of My Project (Google Drive): https://drive.google.com/drive/u/0/folders/1eK-Qjee9N_1Kk6lJ3-XXigN1crcgru_G
+See More Of My Project (Portfolio): https://drive.google.com/drive/u/0/folders/1eK-Qjee9N_1Kk6lJ3-XXigN1crcgru_G
 
 Create a simple game, where we control a slime to jump over obstacles that come infinitely.
 
